@@ -26,7 +26,7 @@ Note: The inference provided by SongComposer only prints the music. That's why w
 
 We have provide a notebook (`inference.ipynb`) for the inference stage. 
 
-##   Parsing results.
+## Parsing results.
 
 You can use `extract_lines` from `generator.py` to parse raw text from the model to transferable result by `filetune/util.py`:
 
